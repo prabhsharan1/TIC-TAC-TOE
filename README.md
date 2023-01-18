@@ -1,8 +1,19 @@
 # TIC-TAC-TOE
 
+<img src="https://www.youcubed.org/wp-content/uploads/2017/03/Tic-Tac-Toe-Sum-thm.jpg">
+
+
+
+TIC_TAC_TOE game developed using JAVA and Apache NET Beans
+
+<h2> Introduction</h2>
+
 Tic-tac-toe, also known as noughts and crosses or Xs and Os, is a paper-and-pencil game that is typically played by two people. The game is played on a 3x3 grid, and each cell in the grid can be empty, contain an "X", or contain an "O". The goal of the game is to get three of your symbols in a row, either horizontally, vertically, or diagonally. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
+
 Each player takes turns placing their symbol (either an "X" or an "O") in an empty cell of the grid. The first player typically uses "X" and the second player uses "O". The game can be played on paper, on a board, or even on a computer or mobile device.
+
+<img src="https://puzzlefry.com/wp-content/uploads/2017/06/tic-tac-toe-playing.png">
 
 Tic-tac-toe is a relatively simple game that can be enjoyed by people of all ages. It is often used as a tool for teaching basic strategy and problem-solving skills, as well as for developing critical thinking abilities.
 
